@@ -1,0 +1,3 @@
+utilisateur_1:1234
+utilisateur_2:patate
+utilisateur_3:abricot
